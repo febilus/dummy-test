@@ -7,7 +7,7 @@ import java.util.List;
 
 @Named
 @RequestScoped
-public class indexView {
+public class IndexView {
 
     public String getDummyMessage() {
         return "dummy";
